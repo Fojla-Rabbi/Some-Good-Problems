@@ -14,6 +14,7 @@
 - [No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1)
 - [Stable Groups](https://codeforces.com/contest/1539/problem/C)
 - [M-arrays](https://codeforces.com/contest/1497/problem/B)
+- [Ugly Numbers](https://vjudge.net/problem/uva-136)
 
 </details>
 
