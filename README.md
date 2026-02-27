@@ -16,6 +16,7 @@
 - [M-arrays](https://codeforces.com/contest/1497/problem/B)
 - [Ugly Numbers](https://vjudge.net/problem/uva-136)
 - [Chef and Prime Divisors](https://vjudge.net/problem/codechef-chapd)
+- [Again Prime? No Time.](https://vjudge.net/problem/uva-10780)
 
 </details>
 
