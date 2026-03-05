@@ -1,7 +1,3 @@
-## CF blog
-- [Short Statement Problems(1600 - 3000)](https://codeforces.com/blog/entry/146051)
-- [CM](https://codeforces.com/blog/entry/148667)
-
 ## Links
 - [Senior](https://www.asksenior.in/learn)
 - [TLE Eliminators](https://www.tle-eliminators.com)
