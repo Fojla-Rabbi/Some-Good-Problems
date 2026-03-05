@@ -110,12 +110,12 @@
 
 </details>
 
-## Dynamic Programming
+## Need to be Handled Smartly
 
 <details>
 <summary>Problems</summary>
 
-- [Hossam and Friends](https://codeforces.com/contest/1771/problem/B)
+- [Mathematically Hard](https://vjudge.net/problem/lightoj-1007)
 </details>
 
 
