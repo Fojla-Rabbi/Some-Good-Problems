@@ -14,6 +14,7 @@
 - [Chef and Prime Divisors](https://vjudge.net/problem/codechef-chapd)
 - [Again Prime? No Time.](https://vjudge.net/problem/uva-10780)
 - [Trailing Zeroes (I)](https://vjudge.net/problem/lightoj-1028)
+- [Integer Divisibility](https://vjudge.net/problem/lightoj-1078)
 
 </details>
 
