@@ -15,6 +15,7 @@
 - [Again Prime? No Time.](https://vjudge.net/problem/uva-10780)
 - [Trailing Zeroes (I)](https://vjudge.net/problem/lightoj-1028)
 - [Integer Divisibility](https://vjudge.net/problem/lightoj-1078)
+- [Divisors 2](https://vjudge.net/problem/spoj-div2)
 
 </details>
 
