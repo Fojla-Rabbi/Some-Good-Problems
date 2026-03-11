@@ -16,6 +16,7 @@
 - [Trailing Zeroes (I)](https://vjudge.net/problem/lightoj-1028)
 - [Integer Divisibility](https://vjudge.net/problem/lightoj-1078)
 - [Divisors 2](https://vjudge.net/problem/spoj-div2)
+- [Odd Numbers of Divisors](https://vjudge.net/problem/spoj-odddiv)
 
 </details>
 
