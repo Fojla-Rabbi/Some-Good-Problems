@@ -17,6 +17,7 @@
 - [Integer Divisibility](https://vjudge.net/problem/lightoj-1078)
 - [Divisors 2](https://vjudge.net/problem/spoj-div2)
 - [Odd Numbers of Divisors](https://vjudge.net/problem/spoj-odddiv)
+- [Swords](https://codeforces.com/contest/1216/problem/D)
 
 </details>
 
