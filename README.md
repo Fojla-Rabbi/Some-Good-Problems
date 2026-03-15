@@ -19,6 +19,7 @@
 - [Odd Numbers of Divisors](https://vjudge.net/problem/spoj-odddiv)
 - [Swords](https://codeforces.com/contest/1216/problem/D)
 - [Power Sequence](https://codeforces.com/contest/1397/problem/B)
+- [How Many bases?](https://vjudge.net/problem/uva-12216)
 
 </details>
 
