@@ -90,23 +90,24 @@
 
 </details>
 
+
 ## Segment Tree
+
+<details>
+<summary>Problems</summary>
+
+- [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
+
+</details>
+
+
+## Just Fix It
 
 <details>
 <summary>Problems</summary>
 
 - [Sum of Two Values](https://codeforces.com/problemset/gymProblem/102961/G)
 - [ Subarray Divisibility](https://codeforces.com/problemset/gymProblem/102961/ZC)
-
-</details>
-
-
-## Just Fix it
-
-<details>
-<summary>Problems</summary>
-
-- [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
 
 </details>
 
