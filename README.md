@@ -52,6 +52,7 @@
 - [Preparing Olympiad](https://codeforces.com/contest/550/problem/B)
 - [Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
 - [Sum of XOR Functions](https://codeforces.com/contest/1879/problem/D)
+- [Interesting Array](https://codeforces.com/contest/482/problem/B)
 
 </details>
 
@@ -97,6 +98,7 @@
 <summary>Problems</summary>
 
 - [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
+- [Interesting Array](https://codeforces.com/contest/482/problem/B)
 
 </details>
 
