@@ -99,6 +99,7 @@
 
 - [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
 - [Interesting Array](https://codeforces.com/contest/482/problem/B)
+- [SUM and REPLACE](https://codeforces.com/contest/920/problem/F)
 
 </details>
 
