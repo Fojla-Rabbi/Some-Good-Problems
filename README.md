@@ -104,6 +104,16 @@
 </details>
 
 
+## Offline Queries
+
+<details>
+<summary>Problems</summary>
+
+- [Yaroslav and Divisors](https://codeforces.com/contest/301/problem/D)
+
+</details>
+
+
 ## Just Fix It
 
 <details>
