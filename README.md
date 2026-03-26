@@ -44,6 +44,38 @@
 
 </details>
 
+## DSA
+
+<details>
+<summary>Problems</summary>
+
+- [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E)
+
+</details>
+
+
+## Segment Tree
+
+<details>
+<summary>Problems</summary>
+
+- [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
+- [Interesting Array](https://codeforces.com/contest/482/problem/B)
+- [SUM and REPLACE](https://codeforces.com/contest/920/problem/F)
+
+</details>
+
+
+## Offline Queries
+
+<details>
+<summary>Problems</summary>
+
+- [Yaroslav and Divisors](https://codeforces.com/contest/301/problem/D)
+
+</details>
+
+
 ## Bitmask
 
 <details>
@@ -92,26 +124,6 @@
 </details>
 
 
-## Segment Tree
-
-<details>
-<summary>Problems</summary>
-
-- [Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C)
-- [Interesting Array](https://codeforces.com/contest/482/problem/B)
-- [SUM and REPLACE](https://codeforces.com/contest/920/problem/F)
-
-</details>
-
-
-## Offline Queries
-
-<details>
-<summary>Problems</summary>
-
-- [Yaroslav and Divisors](https://codeforces.com/contest/301/problem/D)
-
-</details>
 
 
 ## Just Fix It
