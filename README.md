@@ -44,7 +44,7 @@
 
 </details>
 
-## DSA
+## Graph Theory
 
 <details>
 <summary>Problems</summary>
