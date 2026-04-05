@@ -85,6 +85,7 @@
 - [Little Girl and Maximum XOR](https://codeforces.com/contest/276/problem/D)
 - [Sum of XOR Functions](https://codeforces.com/contest/1879/problem/D)
 - [Interesting Array](https://codeforces.com/contest/482/problem/B)
+- [Max Sum OR (Hard Version)](https://codeforces.com/contest/2146/problem/D2)
 
 </details>
 
