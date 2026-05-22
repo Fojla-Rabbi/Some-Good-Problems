@@ -89,6 +89,7 @@
 - [Interesting Array](https://codeforces.com/contest/482/problem/B)
 - [Max Sum OR (Hard Version)](https://codeforces.com/contest/2146/problem/D2)
 - [The 67th XOR Problem](https://codeforces.com/contest/2218/problem/E)
+- [Test Generator](https://codeforces.com/contest/2203/problem/C)
 
 </details>
 
