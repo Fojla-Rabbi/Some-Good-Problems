@@ -175,7 +175,8 @@
 - [Stone Age Problem](https://codeforces.com/contest/1679/problem/B)
 - [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D)
 - [Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
-- [Racing](https://codeforces.com/contest/2110/problem/C)
+- [Racing](https://codeforces.com/contest/2110/problem/C))
+- [Flower Boy](https://codeforces.com/contest/2106/problem/D
 
 </details>
 
