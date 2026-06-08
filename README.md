@@ -114,6 +114,7 @@
 - [Monocarp's String](https://codeforces.com/problemset/problem/2145/C)
 - [Binary Deque](https://codeforces.com/contest/1692/problem/E)
 - [Hidden Knowledge of the Ancients](https://codeforces.com/contest/2149/problem/E)
+- [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
 
 </details>
 
