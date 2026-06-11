@@ -2,6 +2,16 @@
 - [Senior](https://www.asksenior.in/learn)
 - [TLE Eliminators](https://www.tle-eliminators.com)
 
+## Dynamic Programming
+
+<details>
+<summary>Problems</summary>
+
+- [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+
+</details>
+
+
 ## Number Theory
 
 <details>
