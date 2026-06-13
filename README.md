@@ -177,6 +177,15 @@
 - [Ugly Numbers](https://vjudge.net/problem/uva-136)
 </details>
 
+## Regular Bracket Sequence
+
+<details>
+<summary>Problems</summary>
+
+- [Cost of a Bracket Sequence](https://codeforces.com/contest/2233/problem/C)
+
+</details>
+
 
 ## Random
 
