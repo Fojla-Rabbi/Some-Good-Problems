@@ -9,6 +9,7 @@
 
 - [DP Sheet](https://atcoder.jp/contests/dp/tasks) 
 - [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+- [Coin Change (I)](https://vjudge.net/problem/lightoj-1231)
 
 </details>
 
