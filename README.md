@@ -11,6 +11,7 @@
 - [Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
 - [Coin Change (I)](https://vjudge.net/problem/lightoj-1231)
 - [Divisible Group Sums](https://vjudge.net/problem/lightoj-1125)
+- [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
 
 </details>
 
