@@ -13,6 +13,7 @@
 - [Divisible Group Sums](https://vjudge.net/problem/lightoj-1125)
 - [Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)
 - [An Easy LCS](https://vjudge.net/problem/lightoj-1110)
+- [Coin Change (II)](https://vjudge.net/problem/lightoj-1232)
 
 </details>
 
