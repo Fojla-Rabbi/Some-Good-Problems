@@ -17,6 +17,7 @@
 - [Coin Change (II)](https://vjudge.net/problem/lightoj-1232)
 - [Candies](https://atcoder.jp/contests/dp/tasks/dp_m)
 - [Increasing Subsequence](https://cses.fi/problemset/task/1145)
+- [Removal Game](https://cses.fi/problemset/task/1097)
 
 </details>
 
