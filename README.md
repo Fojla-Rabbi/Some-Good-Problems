@@ -40,7 +40,7 @@
 - [Swords](https://codeforces.com/contest/1216/problem/D)
 - [Power Sequence](https://codeforces.com/contest/1397/problem/B)
 - [How Many bases?](https://vjudge.net/problem/uva-12216)
-- [Elections in Saransk (easy version)](https://codeforces.com/contest/2236/problem/F1) | [Explanatio] <img width="1862" height="1042" alt="image" src="https://github.com/user-attachments/assets/d95e65a8-5dbc-4cb4-bbca-6e14babaf101" />
+- [Elections in Saransk (easy version)](https://codeforces.com/contest/2236/problem/F1) | [Explanation] (https://vjudge.net/problem/uva-12216)
 
 
 </details>
