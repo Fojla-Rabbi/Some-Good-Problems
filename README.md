@@ -19,8 +19,8 @@
 - [Two Sets II](https://cses.fi/problemset/task/1093)
 - [Slimes](https://atcoder.jp/contests/dp/tasks/dp_n)
 - [Array Walk](https://codeforces.com/contest/1389/problem/B)
-<details>
-<summary>Problems</summary>
+
+<summary>Note</summary>
 In my solution, why it is needed to use total_left_move as state where total_move doesn't?
   Because Test with dp[i][prev_move] (Wrong): Path A arrives at (i=3, prev_move=0) with 0 left moves left. Path B arrives at (i=3, prev_move=0) with 2 left moves left. Do they have different futures? Yes. Path B can make moves Path A cannot. Therefore, this state definition is broken. Say path A reached i = 3 before path B, then dp[3][0] will store the result of A and then when B comes then it checks the value and as it is not -1, it returns the value!
 </details>
