@@ -21,7 +21,7 @@
 - [Array Walk](https://codeforces.com/contest/1389/problem/B)
   <details>
   <summary>Note</summary>
-  In my solution, why it is needed to use total_left_move as state where total_move doesn't?<br>
+  __In my solution, why it is needed to use total_left_move as state where total_move doesn't?__<br>
   **Why total_left_move changes the future?**Let's look at a concrete scenario where omitting total_left_move from the state breaks your logic. Assume $z = 2$       and $k = 5$.Imagine reaching index i = 3 with prev_move = 1 (meaning you just arrived here by moving right) via two different paths:Path A: You reached index     3 having used 0 left moves so far.From this point on, you are still allowed to make up to 2 left moves. This opens up options to cycle back and forth on high-    value elements nearby.Path B: You reached index 3 having already used 2 left moves so far.From this point on, you are allowed to make 0 left moves. You can       only move right.If your DP table only checks dp[i][prev_move], it treats Path A and Path B as completely identical.If Path B reaches index 3 first in your        recursion, it calculates the maximum score possible (which is heavily restricted because it cannot move left anymore) and stores it in dp[3][1]. Later, when      Path A reaches index 3, your code sees that dp[3][1] is already calculated, skips the recursion, and blindly returns that heavily restricted score—completely     wiping out its ability to use its 2 available left moves.
   </details>
 
