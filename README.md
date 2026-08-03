@@ -129,6 +129,7 @@
 - [K-th Sum](https://codeforces.com/problemset/problem/XXXX)
 - [Chat Ban](https://codeforces.com/problemset/problem/YYYY)
 - [Scuza](https://codeforces.com/contest/1742/problem/E)
+- [Ropes](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B)
 
 </details>
 
