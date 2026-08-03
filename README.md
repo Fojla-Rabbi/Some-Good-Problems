@@ -216,6 +216,7 @@
 - [Production of Snowmen](https://codeforces.com/contest/2182/problem/C)
 - [Racing](https://codeforces.com/contest/2110/problem/C))
 - [Flower Boy](https://codeforces.com/contest/2106/problem/D)
+- [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C)
 
 </details>
 
