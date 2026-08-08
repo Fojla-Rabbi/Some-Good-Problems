@@ -226,8 +226,8 @@
 
 ## Dividing the Problem into Cases
 
-Actually it is the most optimal way to tackle a complex problem. The solution will be longer but
-it will be easier to implement and debug. Also there is a very less chance to make mistakes and
+Actually it is the most optimal way to <b>tackle a complex problem</b>. The solution will be longer but
+it will be easier to implement and debug. Also there is a very <b>less chance to make mistakes</b> and
 get it wrong.
 
 <details>
