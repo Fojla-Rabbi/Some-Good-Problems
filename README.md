@@ -228,7 +228,7 @@
 
 Actually it is the most optimal way to <b>tackle a complex problem</b>. The solution will be longer but
 it will be easier to implement and debug. Also there is a very <b>less chance to make mistakes</b> and
-get it wrong...[sahaun](https://codeforces.com/profile/sahaun) bhai
+get it wrong.([sahaun](https://codeforces.com/profile/sahaun) bhai)
 
 <details>
 <summary>Problems</summary>
