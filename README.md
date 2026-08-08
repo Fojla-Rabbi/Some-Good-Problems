@@ -235,4 +235,5 @@ get it wrong.
 <summary>Problems</summary>
 
 - [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C)
+- [Always Changing](https://codeforces.com/contest/2252/problem/B)
 </details>
