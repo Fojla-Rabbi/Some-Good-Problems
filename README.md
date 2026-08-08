@@ -172,27 +172,6 @@
 </details>
 
 
-## Super Implementation Technique
-
-<details>
-<summary>Problems</summary>
-
-- [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
-- [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
-- [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
-- [Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
-
-</details>
-
-## Need to be Handled Smartly
-
-<details>
-<summary>Problems</summary>
-
-- [Mathematically Hard](https://vjudge.net/problem/lightoj-1007)
-- [Primal Fear](https://vjudge.net/problem/spoj-vectar8)
-- [Ugly Numbers](https://vjudge.net/problem/uva-136)
-</details>
 
 ## Regular Bracket Sequence
 
@@ -222,3 +201,37 @@
 
 
 
+## Super Implementation Technique
+
+<details>
+<summary>Problems</summary>
+
+- [Divisible Pairs](https://codeforces.com/contest/1931/problem/D)
+- [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
+- [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
+- [Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
+
+</details>
+
+## Need to be Handled Smartly
+
+<details>
+<summary>Problems</summary>
+
+- [Mathematically Hard](https://vjudge.net/problem/lightoj-1007)
+- [Primal Fear](https://vjudge.net/problem/spoj-vectar8)
+- [Ugly Numbers](https://vjudge.net/problem/uva-136)
+</details>
+
+
+## Dividing the Problem into Cases
+
+Actually it is the most optimal way to tackle a complex problem. The solution will be longer but
+it will be easier to implement and debug. Also there is a very less chance to make mistakes and
+get it wrong.
+
+<details>
+<summary>Problems</summary>
+
+- [Sum of Distinct Values in a Matrix](https://codeforces.com/contest/2253/problem/C)
+</details>
