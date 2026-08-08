@@ -159,8 +159,6 @@
 </details>
 
 
-
-
 ## Just Fix It
 
 <details>
@@ -210,6 +208,7 @@
 - [Find the Different Ones!](https://codeforces.com/contest/1927/problem/D)
 - [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
 - [Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
+- [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B)
 
 </details>
 
