@@ -79,6 +79,7 @@
 - [Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E)
 - [Trapped in the Witch's Labyrinth](https://codeforces.com/contest/2034/problem/C)
 - [Drunken Maze](https://codeforces.com/contest/2041/problem/D)
+- [ Village Guilds](https://codeforces.com/contest/2238/problem/C)
 
 </details>
 
