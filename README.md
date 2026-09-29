@@ -13,6 +13,7 @@
   <summary>Note</summary>
   This problem can be solved very easily with BFS. But if I wanted to solve it using DFS or DP
     then I must need to know the upper bound of the answer. And it is 26!
+    
     But HOW?
 
     Simply think for two even number (both a, b are even), then if gcd(a, b) = 8, then definitely one of them is not divisible
