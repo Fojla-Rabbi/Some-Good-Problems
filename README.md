@@ -14,11 +14,10 @@
   This problem can be solved very easily with BFS. But if I wanted to solve it using DFS or DP
     then I must need to know the upper bound of the answer. And it is 26!
 
-
     But HOW?
 
-    Simply think for two even number (both a, b are even), then if gcd(a, b) = 8, then definitely one of them is not divisible
-    by 16(if so, then gcd would be 16). Now I can make that number divisible by 16 by subtracting 8. Because the next and previous
+    Simply think for two even numbers (both a, b are even), now if gcd(a, b) = 8, then definitely one of them is not divisible
+    by 16 (if so, then gcd would be 16). Now I can make that number divisible by 16 by subtracting 8. Because the next and previous
     multiples of that number must be divisible by 16. Like say the number is 24, then prevous = 16, next = 32
   </details>
 
