@@ -18,7 +18,16 @@
 
     Simply think for two even numbers (both a, b are even), now if gcd(a, b) = 8, then definitely one of them is not divisible
     by 16 (if so, then gcd would be 16). Now I can make that number divisible by 16 by subtracting 8. Because the next and previous
-    multiples of that number must be divisible by 16. Like say the number is 24, then prevous = 16, next = 32
+    multiples of that number must be divisible by 16. Like say the number is 24, then prevous = 16, next = 32.
+
+    So, I can always subtract **next power of two** within at most 2 operations. 
+
+    Why at most 2?
+
+    Because say both of the current a and b are not divisible by 16, then I must subtract 8 (gcd(a, b)) from both, then in the
+    next operation gcd will be 16. And I can subtract 16 then. So, I can subtract 2 then 4 then 8 then 16.....2^k...
+    and for making each such subtraction I need at most 2 operations. So for a = 5000, it can be 2 * log(5000) = 2 * 12 = 24.
+    But if both a and b are initially odd then need to subtract 1 from each first, so max = 26.
   </details>
 
 </details>
