@@ -2,6 +2,17 @@
 - [Senior](https://www.asksenior.in/learn)
 - [TLE Eliminators](https://www.tle-eliminators.com)
 
+
+## ICPC
+
+<details>
+<summary>Problems</summary>
+
+- [GCD](https://codeforces.com/gym/105588/problem/G)
+
+</details>
+
+
 ## Dynamic Programming
 
 <details>
