@@ -18,7 +18,7 @@
 
     Simply think for two even numbers (both a, b are even), now if gcd(a, b) = 8, then definitely one of them is not divisible
     by 16 (if so, then gcd would be 16). Now I can make that number divisible by 16 by subtracting 8. Because the next and previous
-    multiples of that number must be divisible by 16. Like say the number is 24, then prevous = 16, next = 32.
+    multiples of that number must be divisible by 16. Like say the number is 24, then previous = 16, next = 32.
 
     So, I can always subtract **next power of two** within at most 2 operations. 
 
