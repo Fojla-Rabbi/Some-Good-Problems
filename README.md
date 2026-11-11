@@ -227,6 +227,20 @@
 - [Racing](https://codeforces.com/contest/2110/problem/C))
 - [Flower Boy](https://codeforces.com/contest/2106/problem/D)
 - [Stepan and Permutation](https://codeforces.com/contest/2244/problem/C)
+- [Lock and Unlock](https://codeforces.com/contest/2278/problem/D)
+  <details>
+  <summary>Note</summary>
+  Where I struggled was I thought taking the global smallest group would be optimal. 
+    But that is actually wrong.
+    
+    **Locking the left side or right side is only allowed.**
+    Because of that, the right side tends to decrease to some value
+    and left side tends to increase to some value, so ultimately both sides tend to **meet in the middle.**
+    But locking somewhere in the middle will take the right side **far away** when increasing 
+    while taking left close to the middle.
+    
+  </details>
+
 
 </details>
 
