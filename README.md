@@ -256,6 +256,7 @@
 - [Romantic Glasses](https://codeforces.com/contest/1915/problem/E)
 - [Bracket Coloring](https://codeforces.com/contest/1837/problem/D)
 - [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B)
+- [Sum of LDS](https://codeforces.com/contest/2128/problem/D)
 
 </details>
 
