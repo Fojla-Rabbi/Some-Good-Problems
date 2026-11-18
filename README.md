@@ -258,6 +258,7 @@
 - [Hypercarp and the Control Panel](https://codeforces.com/contest/2253/problem/B)
 - [Sum of LDS](https://codeforces.com/contest/2128/problem/D)
 - [Ultimate Value](https://codeforces.com/contest/2140/problem/C)
+- [Annoying Game](https://codeforces.com/contest/2158/problem/C)
 
 </details>
 
