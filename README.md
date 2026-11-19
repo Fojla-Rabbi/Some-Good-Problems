@@ -270,6 +270,7 @@
 - [Mathematically Hard](https://vjudge.net/problem/lightoj-1007)
 - [Primal Fear](https://vjudge.net/problem/spoj-vectar8)
 - [Ugly Numbers](https://vjudge.net/problem/uva-136)
+- [Chipmunk Theo and Equality](https://codeforces.com/contest/2231/problem/C)
 </details>
 
 
